@@ -1,0 +1,18 @@
+/* /* .countries {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+} */
+
+/* .list {
+    display: flex;
+    flex-direction: column;
+} */ 
+
+.list-countries p {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    height: 100px;
+    border: 50px black solid;
+}
